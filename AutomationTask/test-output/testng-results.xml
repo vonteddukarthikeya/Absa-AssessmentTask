@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started Running:AbsaAssessmentTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Success:AbsaAssessmentTest]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\HP\eclipse-workspace\AutomationTask\src\main\java\WebTesting\AutomationTask\Success_ScreenShots\AbsaAssessmentTest_17_05_2019_05_17_19.png'><img src='C:\Users\HP\eclipse-workspace\AutomationTask\src\main\java\WebTesting\AutomationTask\Success_ScreenShots\AbsaAssessmentTest_17_05_2019_05_17_19.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression" duration-ms="23759" started-at="2019-01-05T11:46:57Z" finished-at="2019-01-05T11:47:21Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="23759" started-at="2019-01-05T11:46:57Z" finished-at="2019-01-05T11:47:21Z">
+      <class name="WebTesting.AutomationTask.TC001_VerifyAddUserDetails">
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String)[pri:0, instance:WebTesting.AutomationTask.TC001_VerifyAddUserDetails@3ee0fea4]" name="OpenBrowser" is-config="true" duration-ms="10395" started-at="2019-01-05T11:46:57Z" finished-at="2019-01-05T11:47:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="AbsaAssessmentTest()[pri:0, instance:WebTesting.AutomationTask.TC001_VerifyAddUserDetails@3ee0fea4]" name="AbsaAssessmentTest" duration-ms="11845" started-at="2019-01-05T11:47:07Z" finished-at="2019-01-05T11:47:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:AbsaAssessmentTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Success:AbsaAssessmentTest]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\HP\eclipse-workspace\AutomationTask\src\main\java\WebTesting\AutomationTask\Success_ScreenShots\AbsaAssessmentTest_17_05_2019_05_17_19.png'><img src='C:\Users\HP\eclipse-workspace\AutomationTask\src\main\java\WebTesting\AutomationTask\Success_ScreenShots\AbsaAssessmentTest_17_05_2019_05_17_19.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AbsaAssessmentTest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:WebTesting.AutomationTask.TC001_VerifyAddUserDetails@3ee0fea4]" name="CloseBrowser" is-config="true" duration-ms="1042" started-at="2019-01-05T11:47:20Z" finished-at="2019-01-05T11:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- WebTesting.AutomationTask.TC001_VerifyAddUserDetails -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Regression -->
+</testng-results>

@@ -1,0 +1,863 @@
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Clicked on Add User Button : [[ChromeDriver: chrome on XP (e67c2f114838d4f4ba120d79fbf00437)] -> xpath: //button[@class='btn btn-link pull-right']]
+Started ----- Adding New User -----
+Enter First Name : KarthikeyaReddyusing with object first name :[[ChromeDriver: chrome on XP (e67c2f114838d4f4ba120d79fbf00437)] -> name: FirstName]
+Enter Last Name : Vontedduusing with object last name :[[ChromeDriver: chrome on XP (e67c2f114838d4f4ba120d79fbf00437)] -> css selector: input[name='LastName']]
+Enter User Name : Karthikeya753using with object user name :[[ChromeDriver: chrome on XP (e67c2f114838d4f4ba120d79fbf00437)] -> css selector: input[name='UserName']]
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Clicked on Add User Button : [[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> xpath: //button[@class='btn btn-link pull-right']]
+Started ----- Adding New User -----
+Enter First Name : KarthikeyaReddy using with object first name :[[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> name: FirstName]
+Enter Last Name : Vonteddu using with object last name :[[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> css selector: input[name='LastName']]
+Enter User Name : Karthikeya383 using with object user name :[[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> css selector: input[name='UserName']]
+Selected Customer Field  : Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='ng-pristine ng-valid'][@type='radio'][@value='15']'
+Selected Role Field  : [[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> xpath: //option[text()='Customer']]
+Selected Email Field  : karthiktest327@absa.comusing with object email :[[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> css selector: input[name='Email']]
+Selected Phone Field  : 0495837333using with object phone :[[ChromeDriver: chrome on XP (aa194d2030396a6fa0dfa4616dfb370c)] -> xpath: //input[@name='Mobilephone']]
+Click on SaveButton  : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn btn-success']'
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 
+Started ----- TC001_VerifyAddUserDetails -----
+Started ----- Title Validation -----
+Ended ----- Title Validation -----
+Started ----- Url Validation -----
+Ended ----- Url Validation -----
+Started ----- Validate for UserListTable -----
+Ended ----- Validate for UserListTable -----
+Started ----- Adding New User -----
+Ended ----- Adding New User -----
+Started ----- Checking user added in list -----
+Started ----- Checking user added in list -----
+Ended ----- TC001_VerifyAddUserDetails ----- 

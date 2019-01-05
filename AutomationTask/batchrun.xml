@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression" parallel="tests">
+
+<listeners>
+    <listener class-name="WebTesting.AutomationTask.Listener"></listener>
+    <listener class-name="WebTesting.AutomationTask.RetryListener"></listener>
+</listeners>
+
+  <test thread-count="5" name="ChromeTest">
+  <parameter name="browser" value="Chrome"></parameter>
+     <classes>
+      <class name="WebTesting.AutomationTask.TC001_VerifyAddUserDetails"/>
+    </classes>
+  </test> <!-- ChromeTest -->
+ 
+ 
+<!--  To run in multiple browsers, please uncomment the below code and run 
+if all the below mentioned browsers are available and working only
+ --> 
+ 
+  <!-- <test thread-count="5" name="FirefoxTest">
+  <parameter name="browser" value="Firefox"></parameter>
+     <classes>
+      <class name="WebTesting.AutomationTask.TC001_VerifyAddUserDetails"/>
+    </classes>
+  </test>  FirefoxTest 
+  
+  <test thread-count="5" name="IETest">
+  <parameter name="browser" value="IE"></parameter>
+     <classes>
+      <class name="WebTesting.AutomationTask.TC001_VerifyAddUserDetails"/>
+    </classes>
+  </test> IETest
+  
+  <test thread-count="5" name="EdgeTest">
+  <parameter name="browser" value="Edge"></parameter>
+     <classes>
+      <class name="WebTesting.AutomationTask.TC001_VerifyAddUserDetails"/>
+    </classes>
+  </test> EdgeTest -->
+  
+
+  
+</suite> <!-- Regression -->
